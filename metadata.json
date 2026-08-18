@@ -1,0 +1,6 @@
+{
+  "name": "Ashvane Lumeris — Interactive Visual Engine",
+  "description": "Minimal, mouse-responsive visual playground and interactive kinetic landing page created by Ashvane Lumeris (https://github.com/AshvaneLumeris).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
